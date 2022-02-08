@@ -5,7 +5,7 @@
 - 📫 Entre em contato comigo: mtheusmss@gmail.com
 
 
-<div align="center">
+<div align="center" style="display:flex" >
   <a href="https://github.com/kain-prog">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kain-prog&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kain-prog&layout=compact&langs_count=7&theme=dark"/>
