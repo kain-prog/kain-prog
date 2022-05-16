@@ -6,8 +6,8 @@
   <br><br>
 <div align="center">
   <a href="https://github.com/kain-prog">
-  <img height="180em"         src="https://camo.githubusercontent.com/c460d8cc66f5c9003bdbb6f987743e721dba432fa24dc072d41df1ad9a8e13a0/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4d797374312d446576312673686f775f69636f6e733d74727565267468656d653d6461726b26696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d74727565" data-canonical-src="https://github-readme-stats.vercel.app/api?username=kain-prog&amp;show_icons=true&amp;theme=dark&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;">
-  <img height="180em" src="https://camo.githubusercontent.com/a6c376b390b1816a783c81d81fb0333e9b2170bffe6fb2bffdd354abad1cd2f2/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4d797374312d44657631266c61796f75743d636f6d70616374266c616e67735f636f756e743d3136267468656d653d6461726b" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=kain-prog&amp;layout=compact&amp;langs_count=16&amp;theme=dark" style="max-width: 100%;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kain-prog&amp;show_icons=true&amp;theme=dark&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kain-prog&amp;layout=compact&amp;langs_count=16&amp;theme=dark" style="max-width: 100%;">
   </a>
 </div>
 <div style="display: inline_block"><br>
