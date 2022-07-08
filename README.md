@@ -1,6 +1,6 @@
 ### Olá! Seja Bem-Vindo(a) ao meu <strong>perfil</strong> 👋;
 
-- 🔭 Hoje desenvolvo aplicações tanto no front-end quanto no back-end;
+- 🔭 Eu desenvolvo aplicações tanto no front-end quanto no back-end;
 - 💬 Eu atuo como prestador de serviços, tenho minha própria empresa. Vamos realizar um projeto?
 - 📫 Entre em contato comigo: mtheusmss@gmail.com
   <br><br>
